@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.2",
         "laravel/framework": "^5.5||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0",
-        "venngo/laravel-password-exposed-validation-rule": "^1.0.1"
+        "venngo/laravel-password-exposed-validation-rule": "^1.0.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.14.1|^1.9.1",
@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/langleyfoxall/password_exposed",
+            "url": "https://github.com/venngo/password_exposed",
             "no-api": true
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/langleyfoxall/DO-File-Cache-PSR-6",
+            "url": "https://github.com/venngo/DO-File-Cache-PSR-6",
             "no-api": true
         },
         {
@@ -57,11 +57,6 @@
             "url": "https://github.com/venngo/laravel-password-exposed-validation-rule",
             "no-api": true
         },
-        {
-            "type": "vcs",
-            "url": "https://github.com/venngo/do-file-cache-psr-6",
-            "no-api": true
-        }
     ],
     "config": {
         "allow-plugins": {
