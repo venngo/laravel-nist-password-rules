@@ -56,6 +56,11 @@
             "type": "vcs",
             "url": "https://github.com/venngo/laravel-password-exposed-validation-rule",
             "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/venngo/do-file-cache-psr-6",
+            "no-api": true
         }
     ],
     "config": {
