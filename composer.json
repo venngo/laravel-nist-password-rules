@@ -34,9 +34,6 @@
             "providers": [
                 "LangleyFoxall\\LaravelNISTPasswordRules\\ServiceProvider"
             ]
-        },
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     },
     "repositories": [
